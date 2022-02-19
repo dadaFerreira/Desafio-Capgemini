@@ -1,4 +1,4 @@
-import com.ifood.iFood.adapter.Ex01;
+import Ex01;
 import junit.framework.TestCase;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
