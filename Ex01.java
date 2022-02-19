@@ -1,4 +1,3 @@
-package com.ifood.iFood.adapter;
 
 import java.util.Scanner;
 
