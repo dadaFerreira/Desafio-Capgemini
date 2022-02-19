@@ -1,5 +1,3 @@
-package com.ifood.iFood;
-
 import com.ifood.iFood.adapter.Ex02;
 import junit.framework.TestCase;
 import org.junit.jupiter.api.DisplayName;
